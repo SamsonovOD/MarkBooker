@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MarkBooker</string>
+    <string name="stringSearchDefault">Search</string>
+    <string name="stringAddBtn">New</string>
+    <string name="stringSave">Save</string>
+    <string name="stringLinkName">Link Name</string>
+    <string name="stringLinkUrl">Link URL</string>
+    <string name="stringBookmarkNameDefault">Bookmark Name</string>
+    <string name="stringAnotherLink">More</string>
+    <string name="stringSaveJson">Save J</string>
+    <string name="stringLoad">Load J</string>
+    <string name="stringEdit">Edit</string>
+</resources>
